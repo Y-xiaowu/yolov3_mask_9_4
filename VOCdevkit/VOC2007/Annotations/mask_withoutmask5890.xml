@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>mask_withoutmask5890.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\VOCdevkit\VOC2007\JPEGImages\mask_withoutmask5890.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>790</width>
+		<height>543</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>107</ymin>
+			<xmax>666</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>
